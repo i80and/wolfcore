@@ -19,4 +19,8 @@ Stubby
 
 Usage
 -----
-You will need libobjc2.  Get the latest version (currently 1.6 from [here](http://download.gna.org/gnustep/).
+wolfcore comes with libobjc2 1.6 available from [here](http://download.gna.org/gnustep/).
+Its Makefile is slightly changed to build with GCC.  I may change it in the future to build
+with clang, as wolfcore currently does.
+
+Instructions to be written.
